@@ -1,0 +1,14 @@
+{
+  "user": "",
+  "identity": {
+    "username": "",
+    "password": ""
+  },
+  "channels": [
+    ""
+  ],
+  "deaths": 0,
+  "goal": 50,
+  "connection": {},
+  "options": {}
+}
